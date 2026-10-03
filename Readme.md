@@ -12,6 +12,18 @@ This project implements five educational LLVM optimizations in a single
 Each optimization can be selected from the command line. No changes to
 `HelloWorld.cpp` are required when switching between optimizations.
 
+## Device Specifications
+
+* **CPU:** AMD Ryzen AI MAX+ 395 with Radeon 8060S
+* **Architecture:** x86_64
+* **CPU Cores:** 16
+* **Threads:** 32
+* **Maximum CPU Frequency:** 5.19 GHz
+* **L2 Cache:** 16 MiB
+* **L3 Cache:** 64 MiB
+* **Memory:** 62 GiB
+* **Operating System:** Ubuntu 24.04.4 LTS
+
 ## Repository Structure
 
 ```text
